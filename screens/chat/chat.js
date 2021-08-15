@@ -54,7 +54,7 @@ export default function Chat({navigation}) {
               height: 60,
               justifyContent: 'space-between',
             }}>
-            <Text style={{fontSize: 20, fontWeight: 'bold'}}>Zeeshan</Text>
+            <Text style={{fontSize: 20, fontWeight: 'bold'}}>Faizan</Text>
             <Text style={{fontSize: 13}}>12.35PM</Text>
             <Text style={{fontSize: 16}}>Hi dear what's happining!</Text>
           </View>
